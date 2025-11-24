@@ -1,1 +1,5 @@
-# CCT
+<?php
+
+    echo "Hello world";
+
+?>
